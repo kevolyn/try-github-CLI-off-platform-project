@@ -1,3 +1,4 @@
+#import random on system
 import random
 
 name = "Joe"
