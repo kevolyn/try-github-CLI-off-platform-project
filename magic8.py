@@ -1,4 +1,5 @@
 #import random on system added.
+#system checked
 import random
 
 name = "Joe"
